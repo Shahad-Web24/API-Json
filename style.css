@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+}
+.topHeading{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#item{
+    padding: 30px 25px 50px 25px;
+     display: flex;
+     align-items: center;
+     flex-wrap:wrap;
+     justify-content:space-evenly;
+
+}
+.itemsDiv{
+    padding-top: 20px;
+    padding-bottom: 120px;
+    height: 300px;
+    width: 300px;
+   
+}
+
+.itemimg{
+    max-width:180px;
+    padding: 40px;
+    background-color: azure;
+}
+.title{
+    margin-top: 10px;
+    text-align: center;
+}
+.dscrpt{
+    margin-top: 10px;
+}
+.price{
+    margin-top: 10px;
+    text-align: center;
+}
